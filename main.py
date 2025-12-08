@@ -124,7 +124,7 @@ def main(points: int = 0):
                 price, upgrade_value = preset[level][0], preset[level][1]
 
                 if points < price:
-                    last_input_result = f"Недостатньо очок для '{upgrades[key_int]['text']}', треба {upgrades[key_int]['price']}"
+                    last_input_result = f"Недостатньо очок для '{upgrades[key_int]['text']}', треба {price}"
                     continue
 
                 if key_int == -1:
