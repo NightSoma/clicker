@@ -22,7 +22,7 @@ The game is in Ukrainian.
 
 ## Demo Video
 
-[Link to video will be placed here]
+[![Watch the video](https://img.youtube.com/vi/SU_E3Cdkc7k/0.jpg)](https://youtu.be/SU_E3Cdkc7k)
 
 ## Gameplay
 
